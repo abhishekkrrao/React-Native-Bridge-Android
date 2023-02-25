@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104.123" height="104.623" viewBox="0 0 104.123 104.623">
+  <g id="cart" transform="translate(0 0.5)">
+    <path id="line" d="M0,0V11.466H68.795" transform="translate(29.096 63.358)" fill="none" stroke="#d92a55" stroke-linejoin="round" stroke-width="1"/>
+    <path id="line-2" data-name="line" d="M17.2,17.2,11.466,0H0" fill="none" stroke="#d92a55" stroke-linejoin="round" stroke-width="1"/>
+    <path id="line-3" data-name="line" d="M8.6,0a8.6,8.6,0,1,0,8.6,8.6A8.6,8.6,0,0,0,8.6,0Z" transform="translate(86.425 86.425)" fill="none" stroke="#d92a55" stroke-linejoin="round" stroke-width="1"/>
+    <path id="line-4" data-name="line" d="M8.6,0a8.6,8.6,0,1,0,8.6,8.6A8.6,8.6,0,0,0,8.6,0Z" transform="translate(17.285 86.425)" fill="none" stroke="#d92a55" stroke-linejoin="round" stroke-width="1"/>
+    <path id="line-5" data-name="line" d="M80.261,34.4,11.466,45.863,0,0H85.994Z" transform="translate(17.63 17.328)" fill="none" stroke="#d92a55" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>
