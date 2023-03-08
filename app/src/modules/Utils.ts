@@ -19,7 +19,7 @@ export const getAllContacts = () => {
   return new Promise((resolve, reject) => {
     const ContactsModule = NativeModules.ContactsModule;
     ContactsModule.getAllContacts().then((contacts:any)=>{
-      console.log(contacts)
+      // console.log(contacts)
       resolve(contacts);
     })
   })

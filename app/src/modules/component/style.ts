@@ -1,4 +1,5 @@
 import { StyleSheet } from "react-native";
+import { ScalingUtils } from "../AppUtils";
 const styles = StyleSheet.create({
     constainer: {
         width: "100%",
@@ -12,8 +13,8 @@ const styles = StyleSheet.create({
 alignContent:"center"
     },
     text: {
-        color: "#FFF",
-        fontSize: 14,
+        color: "#000",
+        fontSize: ScalingUtils.scaleFont(14),
         textAlign: "center"
     }
 });

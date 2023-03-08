@@ -1,0 +1,44 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {"title": "Mrs", "first": "پارمیس", "last": "کامروا"},
+      "location": {
+        "street": {"number": 4058, "name": "دکتر لواسانی"},
+        "city": "خوی",
+        "state": "بوشهر",
+        "country": "Iran",
+        "postcode": 97594,
+        "coordinates": {"latitude": "16.5762", "longitude": "88.9357"},
+        "timezone": {"offset": "-2:00", "description": "Mid-Atlantic"}
+      },
+      "email": "prmys.khmrw@example.com",
+      "login": {
+        "uuid": "dd956463-f240-4049-8002-6ca8a81fbe90",
+        "username": "blackgorilla816",
+        "password": "1226",
+        "salt": "jqdcrKGa",
+        "md5": "7db3d0f5012ac9902f08a14d62cf3981",
+        "sha1": "253c8f8a8c93f17de22237ae536865610ed78868",
+        "sha256": "d7c59b9c8ce78bf5490ee63b8532448a7d8b42c3ea312260bd2a48f54907f90e"
+      },
+      "dob": {"date": "1982-03-08T12:39:22.295Z", "age": 40},
+      "registered": {"date": "2013-06-27T12:56:34.124Z", "age": 9},
+      "phone": "051-97860738",
+      "cell": "0923-675-8421",
+      "id": {"name": "", "value": null},
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/63.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/63.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/63.jpg"
+      },
+      "nat": "IR"
+    }
+  ],
+  "info": {
+    "seed": "caf1bb3b6acb8c42",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}

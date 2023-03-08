@@ -1,9 +1,13 @@
 import React, { Component } from "react";
-import { AppPage } from "./modules/home-page";
+import { Provider } from "react-redux";
+import { AppRouter } from "./modules/app-navigator";
+import store from "./redux/store";
 
-class Root extends Component {
-  render() {
-    return <AppPage />;
-  }
+function Root() {
+  return (
+    <Provider store={store}>
+      <AppRouter />
+    </Provider>
+  )
 }
 export default Root;
